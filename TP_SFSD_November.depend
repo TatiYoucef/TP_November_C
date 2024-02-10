@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1704908470 source:c:\users\hp\desktop\documents\esi\programmes\c\codeblocks\cp2\fichiers\tp_sfsd_november\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+
